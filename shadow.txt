@@ -1,3 +1,3 @@
-directional light shadow
-point light shadow
-spot light shadow
+Directional Light Shadows
+Point Light Shadow
+Spot Light Shadow
